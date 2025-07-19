@@ -55,3 +55,21 @@ Streamlit – For the web interface
 TextBlob – For natural language processing
 
 ```
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home Page](assets/homepage.png)
+
+### 😊 Sentiment Analysis Output
+
+![Sentiment Analysis](assets/sentimentanalysis.png)
+
+### 🧠 Part-of-Speech (POS) Tagging Output
+
+![POS Tagging](assets/post.png)
+
+### 🔢 Word Frequency Output
+
+![Word Frequency](assets/wordfrequency.png)
