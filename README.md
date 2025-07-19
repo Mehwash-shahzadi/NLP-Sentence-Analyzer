@@ -55,7 +55,3 @@ Streamlit – For the web interface
 TextBlob – For natural language processing
 
 ```
-
-## 🚀 Live Demo
-
-Try the app here: [nlp-sentence-analyzer-production.up.railway.app](https://nlp-sentence-analyzer-production.up.railway.app)
