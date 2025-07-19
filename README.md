@@ -30,3 +30,22 @@ python -m textblob.download_corpora
 🚀 3. Launch the App
 streamlit run app.py
 ```
+
+💡 Features Breakdown
+Feature Description
+Sentiment Analysis Detects emotional polarity (positive/negative) and subjectivity.
+POS Tagging Identifies the grammatical role of each word.
+Word Frequency Shows how often each word appears.
+Full Analysis Combines all of the above into a single report.
+
+📁 Project Structure
+NLP-Sentence-Analyzer/
+│
+├── app.py # Streamlit application
+├── requirements.txt # Dependencies list
+└── README.md # Project documentation (this file)
+
+🛠 Built With
+Streamlit – For the web interface
+
+TextBlob – For natural language processing
