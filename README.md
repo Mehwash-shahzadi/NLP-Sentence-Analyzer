@@ -27,8 +27,9 @@ git clone https://github.com/Mehwash-shahzadi/NLP-Sentence-Analyzer.git
 cd NLP-Sentence-Analyzer
 📦 2. Install Requirements
 
-pip install -r requirements.txt
+pip install streamlit textblob
 python -m textblob.download_corpora
+
 ▶️ 3. Launch the App
 
 streamlit run app.py
@@ -45,8 +46,8 @@ Full Analysis	Combines all of the above into a single report.
 
 NLP-Sentence-Analyzer/
 ├── app.py             # Streamlit application
-├── requirements.txt   # Python dependencies
 └── README.md          # Project documentation (this file)
+
 
 🛠 Built With
 Streamlit – For the web interface
